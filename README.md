@@ -73,4 +73,4 @@ Name : Amit
 
 Project Type: Power Bi Visualization 
 
-Use Case; Ecommerce Analytics
+Use Case: Ecommerce Analytics
